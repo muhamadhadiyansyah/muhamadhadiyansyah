@@ -1,8 +1,8 @@
 ### Hello World!!
 
-### My name is Muhamad Hadiyansyah. 
+My name is Muhamad Hadiyansyah. 
 
-### My skills include
+### My skills:
 
 <p align="center">
 	<img title="Spreadsheet" alt="Spreadsheet" src="https://raw.githubusercontent.com/muhamadhadiyansyah/muhamadhadiyansyah/master/assets/Excel.svg" height="40" />
