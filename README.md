@@ -20,7 +20,7 @@ My name is Muhamad Hadiyansyah.
 
 <hr>
 <p align="center">
-   <i>“Live as if you were to die tomorrow. Learn as if you were to live forever.”.</i>
+   <i>“Live as if you were to die tomorrow. Learn as if you were to live forever.”</i>
    <br>
    <i>– Mahatma Gandhi</i>
    <br>
