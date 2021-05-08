@@ -1,6 +1,6 @@
 ### Hello World!!
 
-My name is Muhamad Hadiyansyah. 
+My name is Muhamad Hadiyansyah. I'm interested in Data Science.
 
 ### My Skills:
 
