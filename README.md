@@ -1,6 +1,6 @@
 ### Hello World!!
 
-My name is Muhamad Hadiyansyah. I'm interested in Data Science.
+My name is Muhamad Hadiyansyah. I love doing statistics, and programming to build models that translate data points into business insights. I have an interest in data science and data analysis. Deeply passionate about Spreadsheet, SQL, Python, R, STATA, Data Cleaning, Data Visualization, Big Data, Artificial Intelligence, and Machine Learning.
 
 ### My Skills:
 
